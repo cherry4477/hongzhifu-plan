@@ -11,5 +11,4 @@
 ####5、需要分配一个账户给鸿支付，用户步骤9，鸿支付发送post请求时在head中生成base64token。<font color=#A52A2A>此账户是否专门生成一种会员类别？明天讨论一下此事</font>
 
 ####6、方案图
-![image](http://)
-
+![image](https://github.com/asiainfoLDP/hongzhifu-plan/blob/master/hongzhifu.graffle)
