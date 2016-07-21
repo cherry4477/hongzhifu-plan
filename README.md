@@ -8,7 +8,7 @@
 
 ####4、提供一个post接口给鸿支付，用户步骤9，鸿支付写入充值（提现）结果。需要与鸿支付沟通步骤9的返回内容和格式。 <font color=#A52A2A>郭立强</font>
 
-####5、需要分配一个账户给鸿支付，用户步骤9，鸿支付发送post请求时在head中生成base64token。<font color=#A52A2A>此账户是否专门生成一种会员类别？明天讨论一下此事</font>
+####5、鸿支付的返回如何识别鸿支付的返回识别信息？<font color=#A52A2A>在备用字段中增加信息能否被网关识别到？</font>
 
 ####6、方案图
 ![image](https://github.com/asiainfoLDP/hongzhifu-plan/blob/master/hongzhifu.jpg)
